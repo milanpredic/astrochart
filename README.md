@@ -26,7 +26,7 @@ It is based on swiss ephemerides.
 (async () => {
     let p = await Person.create('Milan', new Date('1986-01-06 01:15'), 'Negotin, Serbia');
     let c = ChartFactory.create(p);
-    console.log(.aspects);
+    console.log(c.aspects);
 })();
 
 ```
