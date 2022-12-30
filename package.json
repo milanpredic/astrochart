@@ -23,7 +23,7 @@
     "@types/chai": "^4.1.7",
     "@types/mocha": "^5.2.7",
     "chai": "^4.2.0",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "typescript": "^3.5.3",
     "typings": "^2.1.1"
   },
